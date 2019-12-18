@@ -1,1 +1,1 @@
-This is a test repository used for GIT course for SCI group 5.
+This is the homework-1 repository.
